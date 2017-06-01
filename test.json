@@ -2,42 +2,42 @@
     "data": [
       {
         "id": 1,
-        position: {lat: 44.818179, lng: 20.395139},
+        "position": {lat: 44.818179, lng: 20.395139},
         "title":"Object 1",
         "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
         "number":"000/ 000 - 000"
       },
       {
         "id": 2,
+        "position": {lat: 44.817454, lng: 20.457484},
         "title":"Object 22",
-        {lat: 44.817454, lng: 20.457484},
         "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
         "number":"000/ 000 - 000"
       },
       {
         "id": 3,
-        {lat: 44.817474, lng: 20.457504},
+        "position": {lat: 44.817474, lng: 20.457504},
         "title":"Object 333",
         "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
         "number":"000/ 000 - 000"
       },
       {
         "id": 4,
-        {lat: 44.817494, lng: 20.457524}
+        "position": {lat: 44.817494, lng: 20.457524}
         "title":"Object 4444",
         "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
         "number":"000/ 000 - 000"
       },
       {
         "id": 5,
-        {lat: 44.817514, lng: 20.457544}
+        "position": {lat: 44.817514, lng: 20.457544}
         "title":"Object 55555",
         "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
         "number":"000/ 000 - 000"
       },
       {
         "id": 6,
-        {lat: 44.817234, lng: 20.457564}
+        "position": {lat: 44.817234, lng: 20.457564}
         "title":"Object 666666",
         "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
         "number":"000/ 000 - 000"
